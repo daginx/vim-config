@@ -35,3 +35,7 @@ Floating tig - TUI Git: `<Leader>ag` or `:call FloatTerm('"tig"')`
 ```bash
 :CocInstall coc-css coc-json coc-phpls coc-rls coc-tsserver coc-yaml
 ```
+
+## Guide
+
+- Search text: \
