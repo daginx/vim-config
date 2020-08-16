@@ -29,3 +29,9 @@ NodeJS REPL: `<Leader>an` or `:call FloatTerm('"node"')`
 Floating tig - TUI Git: `<Leader>ag` or `:call FloatTerm('"tig"')`
 
 ![](https://i.imgur.com/zAjTPsK.png)
+
+## Coc Install
+
+```bash
+:CocInstall coc-css coc-json coc-phpls coc-rls coc-tsserver coc-yaml
+```
