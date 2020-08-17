@@ -38,4 +38,13 @@ Floating tig - TUI Git: `<Leader>ag` or `:call FloatTerm('"tig"')`
 
 ## Guide
 
+### Move
+
+- w: moves you to the beginning of the next word
+- e: moves you to the last letter of the word
+- i: lets you start editing right where the cursor is
+- a: lets you start editing one character ahead
+
+### Search
+
 - Search text: \
