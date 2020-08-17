@@ -453,3 +453,9 @@ highlight DiffAdded guibg=NONE
 highlight DiffChange guibg=NONE
 highlight DiffDelete guibg=NONE
 highlight EndOfBuffer guifg=#282c34
+
+" My config
+
+for f in split(glob('~/.config/nvim/configs/*.vim'), '\n')
+  exe 'source' f
+endfor%
